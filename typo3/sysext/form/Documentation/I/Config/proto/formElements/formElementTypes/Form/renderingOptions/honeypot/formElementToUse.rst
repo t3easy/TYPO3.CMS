@@ -5,7 +5,7 @@ renderingOptions.honeypot.formElementToUse
       TYPO3.CMS.Form.prototypes.<prototypeIdentifier>.formElementsDefinition.Form.renderingOptions.honeypot.formElementToUse
 
 :aspect:`Data type`
-      bool
+      string
 
 :aspect:`Needed by`
       Frontend
